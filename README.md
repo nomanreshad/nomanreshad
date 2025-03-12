@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/nomanreshad/nomanreshad/blob/main/android-robot.png" width="250"/>
   <img src="https://github.com/nomanreshad/nomanreshad/blob/main/android-robot-jetpack-compose-logo.png" width="250"/>
+  <img src="https://github.com/nomanreshad/nomanreshad/blob/main/compose-logo.png" width="230"/>
 </p>
-![Jetpack Compose Logo](https://upload.wikimedia.org/wikipedia/commons/a/a6/Jetpack_Compose_Logo.svg)
 
 # 👋 Hi, I'm Md. Noman Hassan Reshad  
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png" width="25"/> **Native Android Developer** | 📍 Bangladesh  
