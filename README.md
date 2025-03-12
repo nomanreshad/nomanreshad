@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://github.com/nomanreshad/nomanreshad/blob/main/android-robot.png" width="250"/>
+  <img src="https://github.com/nomanreshad/nomanreshad/blob/main/android-robot-jetpack-compose-logo.png" width="250"/>
 </p>
+![Jetpack Compose Logo](https://upload.wikimedia.org/wikipedia/commons/a/a6/Jetpack_Compose_Logo.svg)
 
 # 👋 Hi, I'm Md. Noman Hassan Reshad  
-🚀 **Native Android Developer** | 📍 Bangladesh  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png" width="25"/> **Native Android Developer** | 📍 Bangladesh  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nomanreshad-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nomanreshad)  
 
