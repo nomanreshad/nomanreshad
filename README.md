@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/QMkPpxPDYY0fu/android.gif" width="150"/>
+  <img src="https://github.com/nomanreshad/nomanreshad/blob/main/android-robot.png" width="250"/>
 </p>
 
 # 👋 Hi, I'm Md. Noman Hassan Reshad  
