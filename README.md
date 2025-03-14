@@ -32,15 +32,15 @@ Hello there! I'm **Md. Noman Hassan Reshad**,
 
 ## 🚀 Projects  
 
-### [📖 Quranic Path](https://github.com/QuranicPath)  
+### [📖 Quranic Path](https://github.com/nomanreshad/QuranicPath)  
 ✔ **Tech:** Compose Multiplatform, Ktor, Room Database, Koin, MVI  
 ✔ **Features:** Read Quran online/offline, smooth UI with Jetpack Compose  
 
-### [📊 Crypto Tracker](https://github.com/CryptoTracker)  
+### [📊 Crypto Tracker](https://github.com/nomanreshad/CryptoTracker)  
 ✔ **Tech:** Jetpack Compose, Ktor, Koin, MVI  
 ✔ **Features:** Track cryptocurrency prices and active status in real-time  
 
-### [📝 Notes](https://github.com/Notes)  
+### [📝 Notes](https://github.com/nomanreshad/Notes)  
 ✔ **Tech:** Jetpack Compose, Room Database, Hilt, Clean Architecture  
 ✔ **Features:** Local note-taking app with offline storage  
 
