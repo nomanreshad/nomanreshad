@@ -15,7 +15,7 @@
 Hello there! I'm **Md. Noman Hassan Reshad**,  
 ❝A **Native Android Developer** with over 1 year of experience in building **scalable, high-performance, professional, user-centric, clean code, efficient & responsive** Android apps using **Jetpack Compose**.❞  
 
-💼 **Available for Freelance Work on [Fiverr](https://www.fiverr.com/noman_reshad)**
+<!--💼 **Available for Freelance Work on [Fiverr](https://www.fiverr.com/noman_reshad)**-->  
 
 ---
 
