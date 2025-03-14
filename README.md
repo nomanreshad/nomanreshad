@@ -44,7 +44,7 @@ Hello there! I'm **Md. Noman Hassan Reshad**,
 ✔ **Tech:** Jetpack Compose, Room Database, Hilt, Clean Architecture  
 ✔ **Features:** Local note-taking app with offline storage  
 
-🔹 *And many more! Explore my [GitHub repositories](https://github.com/nomanreshad) to see more projects like these.*  
+🔹 *And many more! Explore my [GitHub repositories](https://github.com/nomanreshad?tab=repositories) to see more projects like these.*  
 
 ---
 
